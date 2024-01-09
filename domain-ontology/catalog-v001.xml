@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=file:/Users/hadfield/Local/vital-git/vitalhome-aimp/vital-ontology/, recursive=false, Auto-Update=true, version=2" prefer="public" xml:base="file:/Users/hadfield/Local/vital-git/vitalhome-aimp/vital-ontology/">
+        <uri id="Automatically generated entry, Timestamp=1657554036883" name="http://vital.ai/ontology/vital" uri="vital-0.2.304.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1657554036883" name="http://vital.ai/ontology/vital-core" uri="vital-core-0.2.304.owl"/>
+    </group>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1702250627467" name="http://vital.ai/ontology/vital-aimp" uri="vital-aimp-0.1.0.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1702250627467" name="http://vital.ai/ontology/vital-nlp" uri="vital-nlp-0.2.304.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1702250627467" name="http://vital.ai/ontology/vital-samples" uri="vital-samples-0.1.0.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1702250627467" name="http://vital.ai/ontology/vital-social" uri="vital-social-0.2.304.owl"/>
+    </group>
+</catalog>

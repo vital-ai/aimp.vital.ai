@@ -25,6 +25,10 @@ A person, John, speaks to an IoT device and says "Turn off the light".  The IoT 
 
 * Trust, Security, Authentication, Authorization
 
+* Other
+
+
+
 
 
 

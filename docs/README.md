@@ -1,3 +1,3 @@
-# AIMP
+# AIMP Documentation
 
-AIMP
+AIMP Documentation

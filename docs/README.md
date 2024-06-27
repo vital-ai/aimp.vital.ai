@@ -1,1 +1,3 @@
-# aimp.vital.ai
+# AIMP
+
+AIMP
